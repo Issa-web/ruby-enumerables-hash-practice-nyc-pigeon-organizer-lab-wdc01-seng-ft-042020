@@ -6,7 +6,8 @@ def nyc_pigeon_organizer(data)
        pigeons.each do |pigeons_names|
          
            nyc_pigeon_organiser[pigeons_names] = [ attribute]
-           c= 
+           c= nyc_pigeon_organiser[pigeons_names] = [ attribute]
+           c = []
          binding.pry
           
         end
