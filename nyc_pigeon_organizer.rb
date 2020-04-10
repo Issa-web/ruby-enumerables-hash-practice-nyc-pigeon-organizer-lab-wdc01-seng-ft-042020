@@ -11,7 +11,7 @@ def nyc_pigeon_organizer(data)
             nyc_pigeon_organiser[pigeons_names] = {}
           end
           
-          if 
+          if nyc_pigeon_organiser[pigeons_names] [attribute] != nil
          nyc_pigeon_organiser[pigeons_names] [attribute] = [ ]
          nyc_pigeon_organiser[pigeons_names] [attribute].push(attribute_value )
            
