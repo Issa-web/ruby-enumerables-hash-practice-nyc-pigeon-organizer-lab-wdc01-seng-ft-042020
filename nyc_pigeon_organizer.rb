@@ -7,10 +7,10 @@ def nyc_pigeon_organizer(data)
          
            nyc_pigeon_organiser[pigeons_names] = [ attribute]
           
-         
-        end
          nyc_pigeon_organiser [pigeons_names][attribute] = [attribute_value]
           binding.pry 
+        end
+         
        end 
         
       
